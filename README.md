@@ -1,0 +1,1 @@
+# terraform-aws-training2022aws
